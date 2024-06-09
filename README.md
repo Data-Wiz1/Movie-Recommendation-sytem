@@ -13,7 +13,7 @@ This repository contains a movie recommendation system built using Python. The s
 ### Prerequisites
 
 - Python 3.x
-- Required Python packages: `numpy`, `pandas`, `scikit-learn`
+- Required Python packages: `numpy`, `pandas`, `scikit-learn` , `ntlk`
 
 You can install the required packages using pip:
 
